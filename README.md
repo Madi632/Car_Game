@@ -1,5 +1,6 @@
 # Car_Game by Madison Lewis. 
-Made in Unity
+Made in Unity.
+
 A simple car game where you collect packages and deliver them to three people.
 
 Little Miss Driver just got her first job: A delivery girl. How wonderful! But while doing so, she accidentally dropped her packages all over the road. Now that's no good.
